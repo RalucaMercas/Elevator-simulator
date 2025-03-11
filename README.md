@@ -1,7 +1,7 @@
 # FPGA Elevator Controller - Digilent Basys 3 (P + 12 Floors)
 
 ## Overview
-This project implements an **elevator controller** on a **Digilent Basys 3 FPGA board**, simulating an elevator system that operates across **P (Ground) + 12 floors**. The system optimizes **order handling**, incorporates **safety mechanisms**, and features **adjustable speed settings**. Designed using **Verilog/VHDL**, the controller ensures smooth and efficient elevator operation.
+This project implements an **elevator controller** on a **Digilent Basys 3 FPGA board**, simulating an elevator system that operates across **P (Ground) + 12 floors**. The system optimizes **order handling**, incorporates **safety mechanisms**, and features **adjustable speed settings**. Designed using **VHDL**, the controller ensures smooth and efficient elevator operation.
 
 ## Features
 - **Order Optimization**: Efficiently processes multiple floor requests, reducing waiting time.
